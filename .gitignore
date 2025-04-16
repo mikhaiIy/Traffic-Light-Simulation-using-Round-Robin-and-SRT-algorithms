@@ -1,0 +1,24 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folder (created by venv or PyCharm)
+.venv/
+
+# PyCharm IDE settings
+.idea/
+
+# SQLite database files
+*.db
+
+# Log files
+*.log
+
+# Environment variable files (secrets, tokens, etc.)
+.env
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# macOS system file
+.DS_Store
