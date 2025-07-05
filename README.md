@@ -11,7 +11,6 @@ The program is written in **Python** and runs in the terminal with dynamic visua
 - ✅ **Round Robin Scheduling** – Each direction gets equal green light time in a cyclic order.
 - 🚨 **SRT with Ambulance Preemption** – Traffic flow dynamically prioritizes the direction with an ambulance.
 - 📊 **Real-Time Output** – Terminal-based simulation shows green/red states per second.
-- 📈 **Gantt Chart Ready** – Timeline can be extended for plotting and analysis (using `matplotlib`).
 - 🧠 **Educational Use** – Great for learning scheduling logic and simulation development.
 
 ---
