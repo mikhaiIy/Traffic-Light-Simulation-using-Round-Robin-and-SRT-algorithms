@@ -20,7 +20,7 @@ The program is written in **Python** and runs in the terminal with dynamic visua
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mikhaiIy/https://github.com/mikhaiIy/Traffic-Light-Simulation-using-Round-Robin-and-SRT-algorithms.git
+   git clone https://github.com/mikhaiIy/Traffic-Light-Simulation-using-Round-Robin-and-SRT-algorithms.git
 
    cd traffic-light-scheduling
 
