@@ -1,24 +1,23 @@
-# Python cache and compiled files
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*$py.class
 
-# Virtual environment folder (created by venv or PyCharm)
-.venv/
+# Virtual environments
+venv/
+env/
 
-# PyCharm IDE settings
-.idea/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
 
-# SQLite database files
-*.db
-
-# Log files
-*.log
-
-# Environment variable files (secrets, tokens, etc.)
-.env
-
-# Jupyter Notebook metadata
-.ipynb_checkpoints/
-
-# macOS system file
+# OS-specific files
 .DS_Store
+Thumbs.db
+
+# Log or temp files
+*.log
+*.tmp
+
+# VSCode / PyCharm settings (optional)
+.vscode/
+.idea/
