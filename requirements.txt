@@ -1,5 +1,1 @@
-requests
-protobuf
-gtfs-realtime-bindings
-pandas
-schedule
+matplotlib
